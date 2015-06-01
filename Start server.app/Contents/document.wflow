@@ -60,7 +60,7 @@
 				<dict>
 					<key>COMMAND_STRING</key>
 					<string>source ~/.bash_profile
-ipython notebook --pylab inline --notebook-dir "/Users/mxf793/Notebooks"</string>
+ipython notebook --notebook-dir "/Users/mxf793/Notebooks"</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
 					<key>inputMethod</key>
